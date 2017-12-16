@@ -1,0 +1,25 @@
+.emp {
+  background-color: lightblue;
+  height: 76px;
+  width: 107px;
+  border: 15px solid yellow;
+  padding: 31px;
+  margin: 14px;
+  display: grid;
+  float:left;
+}
+
+.emp:after {
+  content: "";
+  display: block;
+  padding-bottom: 100%;
+}
+
+.filt {
+  box-sizing: content-box;
+  width: 98%;
+  height: 84px;
+  padding: 14px;
+  border: 2px solid rgba(25, 24, 24, 0.87);
+  background-color: aquamarine;
+}

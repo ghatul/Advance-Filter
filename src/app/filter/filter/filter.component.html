@@ -1,0 +1,22 @@
+<div>
+  <label> Card Count</label>{{CardObj.count}}
+<div>
+  <label>Education</label>
+  <div *ngFor="let item of education">
+    <label>
+      <input type="checkbox" formControlName="eduction" value="{{item}}"
+             (change)="filterByEducation($event)">{{item}}
+    </label>
+  </div>
+</div>
+
+<div>
+  <label>Age</label>
+  <select formControlName="age" (change)="sortByAge($event.target.value)">
+    <option value="" selected></option>
+    <option value="{{item}}"
+            *ngFor="let item of age ">{{item}}
+    </option>
+  </select>
+</div>
+</div>

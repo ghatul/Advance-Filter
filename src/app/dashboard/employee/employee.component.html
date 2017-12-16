@@ -1,0 +1,15 @@
+<div class="filt">
+<app-filter [CardObj]="cardObj" (filterQryChange)="filter($event)"></app-filter>
+</div>
+<ul *ngFor="let emp of empData | cardfilter:fiterObj:cardObj">
+  <div class="emp">
+    <li>FirstName:<p>{{emp.firstName}}</p></li>
+    <li>LastName:<p>{{emp.lastName}}</p></li>
+    <li>Age:<p>{{emp.age}}</p></li>
+    <li>City:<p>{{emp.city}}</p></li>
+    <li>Companyname:<p>{{emp.companyName}}</p></li>
+  <li>Education:<p>{{emp.education}}</p></li>
+  <li>Experience:<p>{{emp.experienceRange}}</p></li>
+    <li>Salary:<p>{{emp.salaryRange}}</p></li>
+</div>
+</ul>
