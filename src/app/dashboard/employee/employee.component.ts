@@ -29,8 +29,8 @@ export class Data {
   getData() {
     const _array: Employee[] = [
       {
-        'firstName': 'Akshya',
-        'lastName': 'kumar',
+        'firstName': 'Raj',
+        'lastName': 'AAAA',
         'age': 47,
         'salaryRange': '5-7',
         'experienceRange': '3-5',
@@ -40,8 +40,8 @@ export class Data {
         'movie': ['Hera Pheri', 'welcome', 'awara pagal diwana']
       },
       {
-        'firstName': 'Sharukh',
-        'lastName': 'khan',
+        'firstName': 'Prem',
+        'lastName': 'BBBBB',
         'age': 49,
         'salaryRange': '7-8',
         'experienceRange': '4-8',
@@ -51,8 +51,8 @@ export class Data {
         'movie': ['Don', 'Dilwale']
       },
       {
-        'firstName': 'Salman',
-        'lastName': 'khan',
+        'firstName': 'Tom',
+        'lastName': 'CCCCC',
         'age': 50,
         'salaryRange': '10-11',
         'experienceRange': '9-12',
@@ -62,8 +62,8 @@ export class Data {
         'movie': ['ishk', 'gajani']
       },
       {
-        'firstName': 'Amir',
-        'lastName': 'khan',
+        'firstName': 'Jerrry',
+        'lastName': 'DDDDDDD',
         'age': 52,
         'salaryRange': '1-2',
         'experienceRange': '10-19',
@@ -73,8 +73,8 @@ export class Data {
         'movie': ['ishk', '3 idiots']
       },
       {
-        'firstName': 'Ranbir',
-        'lastName': 'kapoor',
+        'firstName': 'Joy',
+        'lastName': 'EEEEEEE',
         'age': 30,
         'salaryRange': '4-5',
         'experienceRange': '8-9',
@@ -84,8 +84,8 @@ export class Data {
         'movie': ['rockstar', 'barfi']
       },
       {
-        'firstName': 'Tom',
-        'lastName': 'Cruz',
+        'firstName': 'Chandler',
+        'lastName': 'FFFFFF',
         'age': 51,
         'salaryRange': '15-17',
         'experienceRange': '13-15',
@@ -95,8 +95,8 @@ export class Data {
         'movie': ['MI', 'jon qarter']
       },
       {
-        'firstName': 'Ranvir',
-        'lastName': 'Singh',
+        'firstName': 'Rechael',
+        'lastName': 'GGGGGGG',
         'age': 28,
         'salaryRange': '4-7',
         'experienceRange': '4-5',
@@ -106,8 +106,8 @@ export class Data {
         'movie': ['RamLila', 'bajirao mastani']
       },
       {
-        'firstName': 'Sahid',
-        'lastName': 'kapoor',
+        'firstName': 'Monica',
+        'lastName': 'HHHHHH',
         'age': 28,
         'salaryRange': '10-10',
         'experienceRange': '1-2',
@@ -117,8 +117,8 @@ export class Data {
         'movie': ['Vivaha', 'awara pagal diwana']
       },
       {
-        'firstName': 'Nana',
-        'lastName': 'patekar',
+        'firstName': 'Phibi',
+        'lastName': 'IIIIII',
         'age': 55,
         'salaryRange': '5-7',
         'experienceRange': '3-5',
@@ -128,8 +128,8 @@ export class Data {
         'movie': ['Welcome']
       },
       {
-        'firstName': 'R',
-        'lastName': 'madhavan',
+        'firstName': 'Ross',
+        'lastName': 'JJJJJ',
         'age': 44,
         'salaryRange': '2-3',
         'experienceRange': '4-4',
@@ -139,8 +139,8 @@ export class Data {
         'movie': ['Welcome', '3 idiots']
       },
       {
-        'firstName': 'amitabh',
-        'lastName': 'bachhan',
+        'firstName': 'Chintu',
+        'lastName': 'KKKKK',
         'age': 60,
         'salaryRange': '20-21',
         'experienceRange': '13-25',
@@ -150,8 +150,8 @@ export class Data {
         'movie': ['Don']
       },
       {
-        'firstName': 'dipika',
-        'lastName': 'padukon',
+        'firstName': 'krishna',
+        'lastName': 'Ghatul',
         'age': 25,
         'salaryRange': '5-7',
         'experienceRange': '3-5',
